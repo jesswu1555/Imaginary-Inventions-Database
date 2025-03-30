@@ -1,6 +1,5 @@
 # Imaginary-Inventions-Database
-
-Each book will have at least one CSV file, stored in the Google Drive folder: [Insert Link]. This folder is also used by the Colab notebook for easy access.  Each book should have minimum one csv file, which can be accessed in the google drive folder [insert link], which is also used by the colab notebook. The data for each book needed is as follows:
+Each book should have minimum one csv file, which can be accessed in the google drive folder [insert link], which is also used by the colab notebook. The data for each book needed is as follows:
 
 ##  Deliverable Format  
 
