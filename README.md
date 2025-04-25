@@ -26,3 +26,37 @@ Each book's data will be saved as:
 |---------------|--------------------------|----------|----------|------------|----------|
 | Televox | "The first mechanical man stood up and..." | Electronics | Assists humans with tasks | Partial | Early robots like ASIMO exist, but not as advanced. |
 | unnamed | "A strange contraption hovered above the ground..." | Transportation | Flying personal transport | Fictional | Described as a "floating disk." |
+
+
+## FAQ - Clarifications and Guidelines
+
+Here are some key clarifications regarding what constitutes an "invention" for our analysis, based on recent discussions.
+
+**Key Takeaway:** When in doubt, lean towards inclusion ("The more data the better").
+
+And please let us know and ask about any more edge cases or ambiguities in your analysis! Shoutout to our meticulous readers who asked these questions that helped us refine our project further! And if you have further questions, please please don't hesitate to ask!
+
+---
+
+**Q: Do biological inventions count? For example, sharks and giant squids engineered in the future based on "old Earth" data?**
+
+**A:** Yes, these should be included. However, we should label them as **"restorations"** rather than simply "inventions," especially if the narrative itself frames them as such. This distinguishes them from entirely novel creations or upgrades.
+
+**Q: What about non-scientific inventions like pagan curses? Can a curse be considered an invention?**
+
+**A:** Absolutely! A curse created through specific arrangements of words can be considered an invention. This highlights the idea that language and specific formulations can be powerful tools for change and can function like an invention within the context of a story.
+
+
+**Q: If a contemporary object is simply disguised to look "sci-fi-ey," but its function remains the same (e.g., a flashlight in disguise), is it notable as an invention?**
+
+**A:** Probably not as a *new* invention in itself. However, if these objects are updated or upgraded in some way (e.g., a flashlight with significantly enhanced features), then they should be included and labeled as **"upgraded inventions."** The key is whether there's a functional difference, not just an aesthetic one.
+
+**Q: Where do alien inventions fit into our analysis? Does it matter how similar the aliens are to humans?**
+
+**A:** Alien inventions are valid for our analysis. The degree to which the aliens are "human-like" is less important than whether their creations function as technology or inventions within the narrative. However, if alien beings are so far removed from a technological understanding (e.g., god-like beings whose "technology" appears as magic), their creations might fall outside the scope of "invention" as we're defining it. Use your judgment and note any such cases.
+
+
+**Q: If human-like aliens invent things that humans have already invented in our past (e.g., cars, nukes), should we include them?**
+
+**A:** Yes, if these items are invented within the story's timeline, even if they are similar to past human inventions, they should be included in our analysis. The act of invention within the fictional context is what makes them relevant.
+
