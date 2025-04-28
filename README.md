@@ -1,5 +1,5 @@
 # Imaginary-Inventions-Database
-Each book should have minimum one csv file, which can be accessed in the google drive folder [insert link], which is also used by the colab notebook. The data for each book needed is as follows:
+Each book should have minimum one csv file, which can be accessed in the google drive folder [https://drive.google.com/drive/folders/1-DBvE0XTSv8watFR2o4U63QOqN5W3ej3?usp=sharing], which is also used by the colab notebook. The data for each book needed is as follows:
 
 ##  Deliverable Format  
 
@@ -13,7 +13,8 @@ Each book's data will be saved as:
 |----------------------------|-------------|
 | **invention_name**         | The exact name of the technological invention as stated in the text. If unnamed, use **"unnamed"**. |
 | **first_appearance_excerpt** | A 500-word excerpt (or a handful of paragraphs) **before** the invention is introduced, **including** the sentence where it appears. Copy from the Project Gutenberg link/text. |
-| **category**               | General category, e.g., **communication, electronics, medicine, manufacturing, transportation, energy, other** (open to additional categories). |
+| **category**               | General category, if you want to use multiple, separate labels with commas e.g., **communication, electronics, medicine, manufacturing, transportation, energy, other** (open to additional labels). |
+| **classification**         | What kind of invention is it, use the labels **original, reengineered** (open to additional labels). |
 | **use_case**               | A phrase or sentence explaining the problem this invention addresses. |
 | **irl_status**             | Status of the invention in real life: <br> 🔹 **Fully** – Exists as described <br> 🔹 **Partial** – Some elements exist, but not exactly as in the book <br> 🔹 **Conceptually** – Theoretical or in early development <br> 🔹 **Fictional** – Does not exist at all <br> 🔹 **Unsure** – Unclear status |
 | **comments**               | Optional. Add any notes, especially if the invention is **unnamed** (e.g., “a strange contraption that hovered above the ground”). |
@@ -22,10 +23,10 @@ Each book's data will be saved as:
 
 ## exampleTitle_exampleAuthor.csv
 
-| invention_name | first_appearance_excerpt | category | use_case | irl_status | comments |
+| invention_name | first_appearance_excerpt | category | classification | use_case | irl_status | comments |
 |---------------|--------------------------|----------|----------|------------|----------|
-| Televox | "The first mechanical man stood up and..." | Electronics | Assists humans with tasks | Partial | Early robots like ASIMO exist, but not as advanced. |
-| unnamed | "A strange contraption hovered above the ground..." | Transportation | Flying personal transport | Fictional | Described as a "floating disk." |
+| Televox | "The first mechanical man stood up and..." | electronics | original | Assists humans with tasks | Partial | Early robots like ASIMO exist, but not as advanced. |
+| unnamed | "A strange contraption hovered above the ground..." | transportation | Reengineered | Flying personal transport | Fictional | Described as a "floating disk." |
 
 
 ## FAQ - Clarifications and Guidelines
