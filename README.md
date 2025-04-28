@@ -16,7 +16,7 @@ Each book's data will be saved as:
 | **category**               | General category, if you want to use multiple, separate labels with commas e.g., **communication, electronics, medicine, manufacturing, transportation, energy, other** (open to additional labels). |
 | **classification**         | What kind of invention is it, use the labels **original, reengineered** (open to additional labels). |
 | **use_case**               | A phrase or sentence explaining the problem this invention addresses. |
-| **irl_status**             | Status of the invention in real life: <br> 🔹 **Fully** – Exists as described <br> 🔹 **Partial** – Some elements exist, but not exactly as in the book <br> 🔹 **Conceptually** – Theoretical or in early development <br> 🔹 **Fictional** – Does not exist at all <br> 🔹 **Unsure** – Unclear status |
+| **irl_status**             | Status of the invention in real life: <br> **Fully** – Exists as described <br> **Partial** – Some elements exist, but not exactly as in the book <br> **Conceptually** – Theoretical or in early development <br> **Fictional** – Does not exist at all <br> **Unsure** – Unclear/complicated status <br> *If you're one of our readers, do NOT spend significant time researching this! Unsure is fine if you don't know.* |
 | **comments**               | Optional. Add any notes, especially if the invention is **unnamed** (e.g., “a strange contraption that hovered above the ground”). |
 
 
